@@ -15,7 +15,9 @@ This result is not driven by aggressive cost-cutting, but by consistent, economi
 This approach establishes a financially grounded, scalable framework for inventory management, directly linking operational decisions to working-capital efficiency.
 
 *NOTE: This project is inspired by real operational challenges encountered in large-scale retail inventory management.*
+
 *To preserve confidentiality, all datasets used in this analysis are synthetic and were generated to reproduce realistic retail conditions, including demand patterns, store variability, and operational constraints.*
+
 *No proprietary or confidential company data is included in this project.*
 
 ---
@@ -23,4 +25,4 @@ This approach establishes a financially grounded, scalable framework for invento
 ## Full Analysis.
 
 The complete methodology, data preparation, modeling approach, and detailed results are available in the notebook:
-[View Notebook](https://github.com/adriana-guillen/bodega-revenue-leakage/blob/main/bodega_revenue_leakage.ipynb)
+[View Notebook](https://github.com/adriana-guillen/overinventory-capital-allocation/blob/main/overinventory_capital_allocation.ipynb)

@@ -17,3 +17,10 @@ This approach establishes a financially grounded, scalable framework for invento
 *NOTE: This project is inspired by real operational challenges encountered in large-scale retail inventory management.*
 *To preserve confidentiality, all datasets used in this analysis are synthetic and were generated to reproduce realistic retail conditions, including demand patterns, store variability, and operational constraints.*
 *No proprietary or confidential company data is included in this project.*
+
+---
+
+## Full Analysis.
+
+The complete methodology, data preparation, modeling approach, and detailed results are available in the notebook:
+[View Notebook](https://github.com/adriana-guillen/bodega-revenue-leakage/blob/main/bodega_revenue_leakage.ipynb)
